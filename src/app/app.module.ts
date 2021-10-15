@@ -24,8 +24,10 @@ import { ProductQuantityComponent } from './shared/product-quantity/product-quan
 import { UserService} from './services/register/user.service';
 import {OrderService} from "./services/order.service";
 import { RegisterComponent } from './register/register.component';
+
 import { RegisterSuccessComponent } from './register-success/register-success.component';
 import { AboutUsComponent } from './about-us/about-us.component';
+
 
 
 @NgModule({
